@@ -43,6 +43,8 @@ For a fully dark appearance, it is recommended that you also select a dark theme
 basic colors and starting point.
 - [gnucash/doc/gtk-3.0.css](https://github.com/Gnucash/gnucash/blob/stable/doc/gtk-3.0.css) - official sample CSS file.
 
+- Check also my [dark everforest theme](https://github.com/ggio/gnucash_dark_everforest) for GnuCash.
+
 ## License
 
 [MIT License](./LICENSE)
